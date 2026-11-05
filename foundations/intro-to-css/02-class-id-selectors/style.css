@@ -1,1 +1,19 @@
-/* Add CSS Styling */
+.class-example {
+    font-family: Verdana, DejaVu Sans, sans-serif;
+    background-color: rgb(243, 142, 142)
+}
+
+.class-example.cooler {
+    font-size: 24px;
+}
+
+#blue-heading {
+    color: rgb(32, 32, 249);
+    font-size: 36px;
+}
+
+#green-heading {
+    background-color: rgb(115, 252, 56);
+    font-size: 24px;
+    font-weight: bold;
+}
